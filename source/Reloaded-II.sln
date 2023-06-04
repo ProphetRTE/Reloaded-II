@@ -83,7 +83,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Reloaded.Mod.Shared", "Relo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reloaded.AutoIndexBuilder", "Tools\Reloaded.AutoIndexBuilder\Reloaded.AutoIndexBuilder.csproj", "{2A15B427-2008-40C4-9D45-A536AC67D433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestModControlParams", "Testing\Mods\TestModControlParams\TestModControlParams.csproj", "{17147B47-9D02-4D39-8B6A-D3C9514333C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestModControlParams", "Testing\Mods\TestModControlParams\TestModControlParams.csproj", "{17147B47-9D02-4D39-8B6A-D3C9514333C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
